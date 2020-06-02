@@ -1,1 +1,6 @@
-# js-app
+<!DOCTYPE html>
+<head></head>
+<body>
+  <p>"Hiya world"
+</body>
+</html>
