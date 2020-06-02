@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head></head>
 <body>
-  <p>"Hiya world"</p>
+  <p text-color:"purple">Hiya world</p>
 </body>
 </html>
